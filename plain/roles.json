@@ -1,0 +1,12 @@
+{
+  "engineering": {
+    "read": ["server123"]
+  },
+  "webdev": {
+    "read": ["server123"],
+    "write": ["server123"]
+  },
+  "hr": {
+    "read": ["database456"]
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "engineering": [{ "action": "read", "object": "server123" }],
+  "webdev": [
+    { "action": "read", "object": "server123" },
+    { "action": "write", "object": "server123" }
+  ],
+  "hr": [{ "action": "read", "object": "database456" }]
+}

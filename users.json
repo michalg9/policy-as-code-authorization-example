@@ -1,0 +1,14 @@
+[
+  {
+    "id": "alice@company.com",
+    "roles": ["engineering", "webdev"]
+  },
+  {
+    "id": "bob@company.com",
+    "roles": ["hr"]
+  },
+  {
+    "id": "carol@company.com",
+    "roles": ["engineering", "hr"]
+  }
+]
